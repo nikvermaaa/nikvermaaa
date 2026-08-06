@@ -235,14 +235,6 @@ Completed comprehensive coursework on data analysis — data cleaning, transform
 
 </div>
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nikvermaaa&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
-
-</div>
-
 ## Contribution Activity
 
 <div align="center">
