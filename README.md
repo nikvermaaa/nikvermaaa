@@ -11,10 +11,8 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-verma-29746928a)
 [![Gmail](https://img.shields.io/badge/Gmail-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilv129@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-5b21b6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikvermaaa)
 
 <br/>
 
