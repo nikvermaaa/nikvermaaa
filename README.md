@@ -219,16 +219,10 @@ Completed comprehensive coursework on data analysis — data cleaning, transform
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-6d28d9?style=for-the-badge&logo=leetcode&logoColor=white)](#)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-7c3aed?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
-[![HackerRank](https://img.shields.io/badge/HackerRank-8b5cf6?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
-[![CodeChef](https://img.shields.io/badge/CodeChef-a78bfa?style=for-the-badge&logo=codechef&logoColor=white)](#)
-
-*Add your profile links to activate these badges*
+[![LeetCode](https://img.shields.io/badge/LeetCode-6d28d9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/nikvermaaa/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-7c3aed?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/nikhilm87u)
 
 </div>
-
----
 
 ## GitHub Analytics
 
@@ -255,15 +249,6 @@ Completed comprehensive coursework on data analysis — data cleaning, transform
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikvermaaa&theme=react-dark&bg_color=0d0221&color=a78bfa&line=8b5cf6&point=c4b5fd&hide_border=true" width="100%"/>
 
-</div>
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nikvermaaa/nikvermaaa/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
 
 ---
 
@@ -298,9 +283,6 @@ Open To:
 
 [![Gmail](https://img.shields.io/badge/nikhilv129@gmail.com-6d28d9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilv129@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Nikhil_Verma-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-verma-29746928a)
-[![GitHub](https://img.shields.io/badge/nikvermaaa-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikvermaaa)
-[![Portfolio](https://img.shields.io/badge/Portfolio-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
 </div>
 
 ---
